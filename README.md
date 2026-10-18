@@ -41,7 +41,6 @@ A sleek, expandable top-center desktop bar for music, calendar events, shortcuts
 | **System** | CPU, RAM, battery, and quick actions |
 | **Settings** | General, Appearance, Behavior, Calendar, Collapsed bar, Tabs, About |
 
-> Screenshots can be added here later. Suggested paths: `Assets/screenshots/collapsed.png`, `expanded.png`, and `calendar.png`.
 
 ## 🚀 Getting started
 
